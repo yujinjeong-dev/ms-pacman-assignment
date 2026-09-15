@@ -1,0 +1,9 @@
+{
+  "starter_repository": "https://github.com/pepealonso95/pacman-dqn",
+  "starter_commit": "d1b9e9d9764dd8bab103f4daf61f7650d4aaf8a8",
+  "code_changes": "Only EPISODES is 5 in setup_check.ipynb; main-run computational cells match the starter. Additional markdown records the experiment plan and interpretation.",
+  "execution_method": "IPython InteractiveShell in-process with captured stdout, stderr and rich display outputs; Jupyter TCP kernel unavailable in this workspace.",
+  "setup_run": "20260915_104926_103013",
+  "main_run": "20260915_105038_502472",
+  "evaluation_settings_changed": false
+}
