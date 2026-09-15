@@ -128,4 +128,4 @@ The complete results ZIP is stored at `pacman_runs/20260915_105038_502472.zip` i
 
 ## Source and submission status
 
-This experiment uses the [classroom Pac-Man DQN](https://github.com/pepealonso95/pacman-dqn); the [original instructions](STARTER_README.md) are preserved. Uploading the public GitHub repository, checking its links in a private browser window, and submitting its URL through the course portal remain to be completed.
+This experiment uses the [classroom Pac-Man DQN](https://github.com/pepealonso95/pacman-dqn); the [original instructions](STARTER_README.md) are preserved. The repository has been uploaded to GitHub, and its notebooks, images, GIFs, and evidence links were verified to render correctly in a browser. The animated GIFs saved in the notebooks' cell outputs are embedded as `image/gif` data, but GitHub's notebook viewer does not always render that MIME type inline; each affected cell is followed by a Markdown cell that displays the same GIF from its saved file in `results/` as a reliable fallback. Submitting the repository URL through the course portal remains to be completed.
